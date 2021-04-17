@@ -19,9 +19,9 @@ This project is licensed under the terms of the MIT license.
 
 - First, create a folder that will contain the front project and the back project
 - Clone the project back in the folder created at the moment
-    - ``` git clone https://github.com/NabilFassih/ProjetTwitterBackEnd ```
+    - ``` git clone https://github.com/NabilFassih/ProjetTwitterBackEnd.git ```
 - Clone the project front in the folder created at the moment
-    - ``` git clone https://github.com/NabilFassih/ProjetTwitterFrontEnd ```
+    - ``` git clone https://github.com/NabilFassih/ProjetTwitterFrontEnd.git ```
 - Now create a file named ``` docker-compose.yml ```
     - Then paste the content you find at this address
         - ``` https://pastebin.com/Ybg3YDx7 ```
